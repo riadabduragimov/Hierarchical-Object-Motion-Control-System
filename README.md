@@ -1,5 +1,6 @@
 <h1 align = center> Hierarchical Object Motion Control System </h1>
 
+---
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Assignment Description](#assignment-description)
